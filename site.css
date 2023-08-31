@@ -5,14 +5,16 @@ body{
 
 .col1{
   background-color: blueviolet;
-  width: 390px;
+  width: 410px;
   height: 100px;
 }
 
 .col2{
   background-color: blueviolet;
-  width: 90px;
+  width: 110px;
   height: 844px;
+  font-weight: bold;
+  text-decoration: solid;
 }
 
 
